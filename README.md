@@ -1,4 +1,4 @@
-![Example Image](images/exemplo.png)
+![Example Image](images/Exemplo.png)
 
 # Digital Image Processing and Computer Vision in Python
 
